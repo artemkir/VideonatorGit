@@ -1,0 +1,7 @@
+C:/Projects/TheoraPluginCMake/TheoraPlayer/build/TheoraVorbis/build/CMakeFiles/ALL_BUILD.dir
+C:/Projects/TheoraPluginCMake/TheoraPlayer/build/TheoraOgg/build/CMakeFiles/THEORA_OGG.dir
+C:/Projects/TheoraPluginCMake/TheoraPlayer/build/CMakeFiles/THEORA_PLAYER.dir
+C:/Projects/TheoraPluginCMake/CMakeFiles/THEORA_PLUGIN.dir
+C:/Projects/TheoraPluginCMake/TheoraPlayer/build/TheoraTheora/build/CMakeFiles/THEORA_THEORA.dir
+C:/Projects/TheoraPluginCMake/TheoraPlayer/build/TheoraVorbis/build/CMakeFiles/THEORA_VORBIS.dir
+C:/Projects/TheoraPluginCMake/CMakeFiles/ZERO_CHECK.dir
